@@ -1,0 +1,12 @@
+---
+title: "Материалы"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: united
+---
+## Методы анализа неоднородных данных и паттерн-анализ, 2020
+ 
+# Занятие 1

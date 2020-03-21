@@ -1,0 +1,15 @@
+output_dir: "."
+navbar:
+  title: "Методы анализа неоднородных данных и паттерн-анализ, 2020"
+  left:
+    - text: "Welcome"
+      href: index.html
+    - text: "Материалы"
+      href: plans.html
+    - text: "Расписание"
+      href: deadlines.html
+  right: 
+    - text: "Help! Напиши Дарье"
+      icon: fa-envelope-o
+      href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE 
+ 
