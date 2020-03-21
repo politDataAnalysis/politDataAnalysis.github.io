@@ -8,3 +8,27 @@ output:
 ---
 ### Занятие 14 марта 
 
+#### Reading list
+
+Обязательное:
+
+<a href="https://yadi.sk/i/4YsEBveY1j4nUw" title=>Stock, Watson, Chapter 10</a>  
+
+Дополнительное: 
+
+<a href="Kropko, Kubinec, 2018.pdf" title=>Kropko, Kubinec, 2018</a>
+
+<a href="Магнус, Катышев, Пересецкий.pdf" title=>Магнус и др., стр. 357 - 379</a> 
+
+#### Lab session
+
+<a href="lab2.ipynb" title=>Lab 2. Python</a>
+
+Data: <a href="panel.dta" title=>panel.dta</a>
+
+
+
+
+
+
+ 
