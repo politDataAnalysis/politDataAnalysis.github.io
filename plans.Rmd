@@ -10,7 +10,7 @@ output:
 
 #### Reading list
 
-Обязательное:
+Обязательное (deadline: нужно прочитать и оставить комментарии в perusall до 23.59 24 марта):
 
 <a href="https://yadi.sk/i/4YsEBveY1j4nUw" title=>Stock, Watson, Chapter 10</a>  
 
@@ -25,6 +25,16 @@ output:
 <a href="lab2.ipynb" title=>Lab 2. Python</a>
 
 Data: <a href="panel.dta" title=>panel.dta</a>
+
+### Занятие 25 марта
+
+#### Домашнее задание до 23.59 12 апреля
+
+<a href="hw2_1.ipynb" title=>Задание. Уровень 1</a>
+
+<a href="hw2_2.ipynb" title=>Задание. Уровень 2</a>
+
+Data: <a href="hw2.dta" title=>hw2.dta</a>
 
 
 
