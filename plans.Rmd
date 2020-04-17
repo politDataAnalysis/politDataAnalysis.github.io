@@ -36,6 +36,32 @@ Data: <a href="panel.dta" title=>panel.dta</a>
 
 Data: <a href="hw2.dta" title=>hw2.dta</a>
 
+### Занятие 11 апреля
+
+<a href="ME_models.pdf" title=>Лекция. ME-models</a>
+
+<a href="polit_seminar_3.pdf" title=>Seminar 3 (1 часть). FE-models</a>
+
+<a href="polit_seminar_3_2.pdf" title=>Seminar 3 (2 часть). ME-models</a>
+
+#### Домашнее задание к 23.59 17 апреля
+
+<a href="Steenbergen,Jones, 2002.pdf" title=>Steenbergen, Jones, 2002</a>
+
+1. прочитать стр. 218 – 224
+
+2. подумать то, насколько содержательно оправданны допущения моделей со смешанными эффектами
+
+3. критически осмыслить предложенное авторами обоснование для использования этого класса моделей
+
+### Выполняется по желанию: Задание к 23.59 30 апреля
+
+<a href="research_proposal.pdf" title=>План Research proposal</a>
+
+
+
+#### Домашнее задание до 23.59 11 апре
+
 
 
 
