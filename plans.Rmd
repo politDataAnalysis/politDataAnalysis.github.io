@@ -8,57 +8,9 @@ output:
 ---
 ### Занятие 13 января 
 
+<a href="polit_methods_intro.pdf" title=>введение </a>
 
+<a href="polit_lecture1.pdf" title=>лекция 1</a>
 
-#### Reading list
+<a href="polit_hw1_2021.pdf" title=>домашнее задание 1</a>
 
-Обязательное (deadline: нужно прочитать и оставить комментарии в perusall до 23.59 24 марта):
-
-<a href="https://yadi.sk/i/4YsEBveY1j4nUw" title=>Stock, Watson, Chapter 10</a>  
-
-Дополнительное: 
-
-<a href="Kropko, Kubinec, 2018.pdf" title=>Kropko, Kubinec, 2018</a>
-
-<a href="Магнус, Катышев, Пересецкий.pdf" title=>Магнус и др., стр. 357 - 379</a> 
-
-#### Lab session
-
-<a href="lab2.ipynb" title=>Lab 2. Python</a>
-
-Data: <a href="panel.dta" title=>panel.dta</a>
-
-### Занятие 25 марта
-
-#### Домашнее задание до 23.59 12 апреля
-
-<a href="hw2_1.ipynb" title=>Задание. Уровень 1</a>
-
-<a href="hw2_2.ipynb" title=>Задание. Уровень 2</a>
-
-Data: <a href="hw2.dta" title=>hw2.dta</a>
-
-### Занятие 11 апреля
-
-<a href="ME_models.pdf" title=>Лекция. ME-models</a>
-
-<a href="polit_seminar_3.pdf" title=>Seminar 3 (1 часть). FE-models</a>
-
-<a href="polit_seminar_3_2.pdf" title=>Seminar 3 (2 часть). ME-models</a>
-
-#### Домашнее задание к 23.59 17 апреля
-
-<a href="Steenbergen,Jones, 2002.pdf" title=>Steenbergen, Jones, 2002</a>
-
-1. прочитать стр. 218 – 224
-
-2. подумать то, насколько содержательно оправданны допущения моделей со смешанными эффектами
-
-3. критически осмыслить предложенное авторами обоснование для использования этого класса моделей
-
-#### Выполняется по желанию: Задание к 23.59 30 апреля
-
-<a href="research_proposal.pdf" title=>План Research proposal</a>
-
-
- 
