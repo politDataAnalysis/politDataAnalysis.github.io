@@ -14,3 +14,11 @@ output:
 
 <a href="polit_hw1_2021.pdf" title=>домашнее задание 1</a>
 
+### Занятие 20 января 
+
+<a href=" hw1.ipynb" title=> код к ДЗ1 </a>
+
+<a href="polit_methods_lecture2.pdf" title=>лекция 2</a>
+
+<a href="polit_hw2_2021.pdf" title=>домашнее задание 2</a>
+
