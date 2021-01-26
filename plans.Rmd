@@ -22,3 +22,5 @@ output:
 
 <a href="polit_hw2_2021.pdf" title=>домашнее задание 2</a>
 
+<a href="CoinProblem.ipynb" title=>разбор задачи про монету</a>
+
