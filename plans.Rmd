@@ -24,3 +24,9 @@ output:
 
 <a href="CoinProblem.ipynb" title=>разбор задачи про монету</a>
 
+### Занятие 27 января 
+
+<a href="polit_lecture3.pdf" title=> лекция 3</a>
+
+<a href="MApolit_seminar1.pdf" title=> семинар 1</a>
+
