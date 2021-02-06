@@ -30,3 +30,19 @@ output:
 
 <a href="MApolit_seminar1.pdf" title=> семинар 1</a>
 
+### Занятие 4 февраля
+
+<a href="polit_methods_hw.pdf" title=> Задания для практики</a>
+
+Reading: 
+
+<a href="Brambor_Clark_Golder.pdf" title=> Brambor et al.</a>
+
+<a href="presentation_Brambor et al..pdf" title=> Презентация по Brambor et al. </a>
+
+<a href="Franzese, Kam.pdf" title=> Franzese, Kam, pp. 19 - 39 </a>
+
+
+
+
+
