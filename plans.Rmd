@@ -42,6 +42,25 @@ Reading:
 
 <a href="Franzese, Kam.pdf" title=> Franzese, Kam, pp. 19 - 39 </a>
 
+### Занятие 10 февраля
+
+<a href="MApolit_lab1.ipynb" title=> Lab1. Interaction effects</a>
+
+<a href="lab1.dta" title=> lab1.dta</a>
+
+Домашнее задание -- нужно сдать на проверку до 23.59 21 февраля: 
+
+1 уровень: 
+
+<a href="hw_inter_1.ipynb" title=> Условие заданий </a>
+
+<a href="hw_inter_1.dta" title=> hw_inter_1.dta </a>
+
+2 уровень (на бонусные баллы): 
+
+<a href="hw_inter_2.ipynb" title=> Условие заданий </a>
+
+<a href="hw_inter_2.dta" title=> hw_inter_2.dta</a>
 
 
 
