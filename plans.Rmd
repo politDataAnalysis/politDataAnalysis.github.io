@@ -64,6 +64,20 @@ Reading:
 
 <a href="hw_inter_2.dta" title=> hw_inter_2.dta</a>
 
+### Занятия 17 и 24 февраля
 
+<a href="MApolit_lecture3.pdf" title=> лекция 4</a>
+
+<a href="MApolit_seminar2.pdf" title=> семинар 2</a>
+
+<a href="MApolit_lab2.ipynb" title=> Lab2. FE-models (part 1)</a>
+
+<a href="lab2.dta" title=> lab2.dta</a>
+
+Бонусное домашнее задание (Дедлайн: 23.59 7 марта)
+
+<a href="hwbonus" title=> Условие бонусного ДЗ</a>
+
+<a href="hwbonus.dta" title=> hwbonus.dta</a>
 
 
