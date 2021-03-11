@@ -80,4 +80,15 @@ Reading:
 
 <a href="hwbonus.dta" title=> hwbonus.dta</a>
 
+### Занятия 3 и 10 марта
+
+<a href="FE__RE_models.pdf" title=> лекция 5</a>
+
+<a href="MApolit_lab3.ipynb" title=> Lab3. FE-models (part 2)</a>
+
+Домашнее задание (дедлайн - 28 марта):
+
+<a href="MApolit_hw2.ipynb" title=> Домашнее задание 2 (обязательное) </a>
+
+<a href="MApolit_hw2.dta" title=> MApolit_hw2.dta </a>
 
